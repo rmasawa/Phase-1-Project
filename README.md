@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phase 1 Project Description
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
@@ -287,3 +288,7 @@ Interactive Data Visualization
 ## Summary
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
 
+=======
+# Phase-1-Project
+Analysis of National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+>>>>>>> a9a31d4a1dae8f4f526ee327a40822dce08d216a
