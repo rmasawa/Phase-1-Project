@@ -12,15 +12,9 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
 
 1. [Introduction](#introduction)
 2. [Business Understanding](#businessunderstanding)
-3. [Libraries](#libraries)
-    - [Importing Libraries](#importinglibraries)
-    - [Loading Data Sets](#loading-data-Sets)
-4. [Understanding the Data](#contrUnderstandingthedata)
-5. [Data Processing](#dataprocessing)
-6. [Data Cleaning](#datacleaning)
-7. [Analysis](#analysis)
-8. [Recommendations](#recommendations)
-9. [Conclusion](#conclusion)
+3. [Understanding the Data](#contrUnderstandingthedata)
+4. [Recommendations](#recommendations)
+9. 
 
 
 # Introduction
